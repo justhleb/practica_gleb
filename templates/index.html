@@ -1,0 +1,76 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="{% static 'css/style.css'%}" type="text/css">
+    <script src="https://kit.fontawesome.com/c37b7b0ffc.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <div class="container">
+        <form method="post" enctype="multipart/form-data">
+            {% csrf_token %}
+            <div class="scenesorobjects">
+                <h4>Сцены</h4>
+                <table class="table">
+                    <tr>
+                        <td>{{ form2.sea.label }}</td>
+                        <td>{{ form2.sea }}</td>
+                    </tr>
+                    <tr>
+                        <td>{{ form2.city.label }}</td>
+                        <td>{{ form2.city }}</td>
+                    </tr>
+                    <tr>
+                        <td>{{ form2.forest.label }}</td>
+                        <td>{{ form2.forest }}</td>
+                    </tr>
+                    <tr>
+                        <td>{{ form2.field.label }}</td>
+                        <td>{{ form2.field }}</td>
+                    </tr>
+                </table>
+            </div>
+            <br>
+            <div class="scenesorobjects">
+                <h4>Объекты</h4>
+                <table class="table">
+                    <tr>
+                        <td>{{ form2.cat.label }}</td>
+                        <td>{{ form2.cat }}</td>
+                    </tr>
+                    <tr>
+                        <td>{{ form2.home.label }}</td>
+                        <td>{{ form2.home }}</td>
+                    </tr>
+                    <tr>
+                        <td>{{ form2.chair.label }}</td>
+                        <td>{{ form2.chair }}</td>
+                    </tr>
+                    <tr>
+                        <td>{{ form2.table.label }}</td>
+                        <td>{{ form2.table }}</td>
+                    </tr>
+                </table>
+            </div>
+            <br>
+            <button type="submit" name="checkboxbutton" class="wave-btn_checkbox">обработать</button>
+        </form>
+        <form method="post" enctype="multipart/form-data" class="addfileform">
+            {% csrf_token %}
+            <label class="filelabel">
+                {{ form1.image}}
+                <span>Добавить файл</span>
+            </label>
+            <button type="submit" name="imagebutton" class="wave-btn_image">+</button>
+        </form>
+        {% if img_obj %}
+            <div class="imagebox">
+                <h3>Файл успешно загруженн</h3>
+                <img src="{{ img_obj.image.url}}" alt="connect" class="image">
+            </div>
+        {% endif %}
+    </div>
+</body>
+</html>

@@ -1,0 +1,13 @@
+Отмеченные сцены: море, город, 
+Отмеченные объекты: кот, стул, 
+На сервере присутствуют следующие директории и файлы:
+05-07-2022
+	WD2_CA_12_Clarion.jpg
+	WD2_CA_1_BackyardHippie.jpg
+	WD2_CA_2_BakerBeach.jpg
+	WD2_CA_2_BakerBeach_9s575XK.jpg
+	WD2_CA_2_BakerBeach_DokoAk1.jpg
+	WD2_CA_2_BakerBeach_lLuP0d6.jpg
+	WD2_CA_9_VistaTwinPeaks.jpg
+06-07-2022
+	WD2_CA_8_Tidis.jpg

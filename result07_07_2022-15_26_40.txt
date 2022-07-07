@@ -1,0 +1,52 @@
+Отмеченные сцены: город, лес, 
+Отмеченные объекты: кот, дом, стул, 
+На сервере присутствуют следующие директории и файлы:
+05-07-2022
+	WD2_CA_12_Clarion.jpg
+	WD2_CA_1_BackyardHippie.jpg
+	WD2_CA_2_BakerBeach.jpg
+	WD2_CA_2_BakerBeach_9s575XK.jpg
+	WD2_CA_2_BakerBeach_DokoAk1.jpg
+	WD2_CA_2_BakerBeach_lLuP0d6.jpg
+	WD2_CA_9_VistaTwinPeaks.jpg
+06-07-2022
+	WD2_CA_8_Tidis.jpg
+07-07-2022
+	WD2_CA_11_Barge.jpg
+	WD2_CA_11_Barge_uV0a6XJ.jpg
+	WD2_CA_12_Clarion.jpg
+	WD2_CA_12_Clarion_MhKbp5u.jpg
+	WD2_CA_12_Clarion_y8jQd79.jpg
+	WD2_CA_12_Clarion_YBQvPLo.jpg
+	WD2_CA_13_Greenhouse.jpg
+	WD2_CA_13_Greenhouse_HEAHSu3.jpg
+	WD2_CA_14_Hacker_space.jpg
+	WD2_CA_14_Hacker_space_6AcIpxh.jpg
+	WD2_CA_14_Hacker_space_dXum6Gv.jpg
+	WD2_CA_14_Hacker_space_j2K6vU2.jpg
+	WD2_CA_14_Hacker_space_jeEVtqr.jpg
+	WD2_CA_14_Hacker_space_JnxAR8k.jpg
+	WD2_CA_14_Hacker_space_Lj3aoQ6.jpg
+	WD2_CA_14_Hacker_space_mQyVt2I.jpg
+	WD2_CA_14_Hacker_space_ne7Rf8D.jpg
+	WD2_CA_14_Hacker_space_noECiww.jpg
+	WD2_CA_14_Hacker_space_sDBIi9K.jpg
+	WD2_CA_14_Hacker_space_SDVgUwb.jpg
+	WD2_CA_14_Hacker_space_WZGoazA.jpg
+	WD2_CA_14_Hacker_space_xAvRvMt.jpg
+	WD2_CA_14_Hacker_space_XkLSC95.jpg
+	WD2_CA_18_SOMA.jpg
+	WD2_CA_1_BackyardHippie.jpg
+	WD2_CA_20_Marcus_Holloway.jpg
+	WD2_CA_20_Marcus_Holloway_1jkdNAo.jpg
+	WD2_CA_20_Marcus_Holloway_6uX9iEm.jpg
+	WD2_CA_20_Marcus_Holloway_ABOwzKp.jpg
+	WD2_CA_20_Marcus_Holloway_D20zxVp.jpg
+	WD2_CA_20_Marcus_Holloway_dC8klKR.jpg
+	WD2_CA_20_Marcus_Holloway_DqgSFi0.jpg
+	WD2_CA_20_Marcus_Holloway_v8cQCr5.jpg
+	WD2_CA_20_Marcus_Holloway_xlxQorR.jpg
+	WD2_CA_7_San_Francisco.jpg
+	WD2_CA_9_VistaTwinPeaks.jpg
+	WD2_CA_9_VistaTwinPeaks_kK8E0aM.jpg
+	WD2_CA_9_VistaTwinPeaks_tN1OND2.jpg
